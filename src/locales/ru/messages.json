@@ -1,4 +1,6 @@
 {
-  "inbox.messages": "{counter, plural, zero {У вас нет сообщений} one {У вас # сообщение} few {У вас # сообщения} many {У вас # сообщений} other {У вас # сообщений}}",
-  "inbox.header": "Тест <0>переводов</0>"
+  "app.demo.messages": "",
+  "app.demo.description": "",
+  "app.demo.version": "",
+  "app.demo.header": ""
 }

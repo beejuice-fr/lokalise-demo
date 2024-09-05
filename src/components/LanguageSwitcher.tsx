@@ -9,7 +9,7 @@ const LanguageSwitcher: React.FC = () => {
 
   return (
     <div>
-      <button onClick={() => switchLanguage("en")}>English</button>
+      <button onClick={() => switchLanguage("en")} style={{ marginRight: '4px' }}>English</button>
       <button onClick={() => switchLanguage("ru")}>Русский</button>
     </div>
   );
