@@ -1,0 +1,4 @@
+{
+  "inbox.messages": "{counter, plural, zero {There are no messages} one {There's # message in your inbox} few {There are # messages in your inbox} many {There are # messages in your inbox} other {There are # messages in your inbox}}",
+  "inbox.header": "Test <0>translations</0>"
+}
